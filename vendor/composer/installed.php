@@ -3,7 +3,7 @@
         'name' => 'laravel/laravel',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '475f8cb7d17bcfe751b41c1cd774c054419fe73c',
+        'reference' => '89e7771208268013c2bd18281e4405cda5138b7a',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -427,7 +427,7 @@
         'laravel/laravel' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '475f8cb7d17bcfe751b41c1cd774c054419fe73c',
+            'reference' => '89e7771208268013c2bd18281e4405cda5138b7a',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -856,8 +856,8 @@
         'psr/log-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '1.0|2.0|3.0',
-                1 => '3.0.0',
+                0 => '3.0.0',
+                1 => '1.0|2.0|3.0',
             ),
         ),
         'psr/simple-cache' => array(
@@ -1457,6 +1457,15 @@
             'reference' => '11cb2199493b2f8a3b53e7f19068fc6aac760991',
             'type' => 'library',
             'install_path' => __DIR__ . '/../webmozart/assert',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'wemersonjanuario/wkhtmltopdf-windows' => array(
+            'pretty_version' => '0.12.2.3',
+            'version' => '0.12.2.3',
+            'reference' => '90fcd3487cad5931287742113c449b926e9e48d8',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../wemersonjanuario/wkhtmltopdf-windows',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
