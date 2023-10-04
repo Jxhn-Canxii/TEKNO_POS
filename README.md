@@ -1,3 +1,14 @@
+
+# POINT OF SALES (LARAVEL)
+
+The Tekno POS Laravel Livewire project is a modern and efficient Point of Sale (POS) system built using the Laravel PHP framework and the Livewire package. It is designed to streamline and enhance the retail management experience for businesses of all sizes. This project leverages the power of web technologies to provide a feature-rich, user-friendly, and real-time POS solution.
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
 # TEKNO_POS INSTALLATION DIRECTIONS
 
 run composer install
@@ -21,3 +32,9 @@ composer require wemersonjanuario/wkhtmltopdf-windows 0.12.2.3
 
 and install wkhtmltopdf 64 bit windows application from this link https://wkhtmltopdf.org/downloads.html
 make sure the installation folder is in Local C: root
+```
+    
+## Authors
+
+- [@Jxhn-Canxii](https://github.com/Jxhn-Canxii)
+
