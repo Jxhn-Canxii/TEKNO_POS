@@ -5,7 +5,11 @@ The Tekno POS Laravel Livewire project is a modern and efficient Point of Sale (
 
 
 ## Installation
-
+Software needed
+------------------------------
+*WAMP or XAMPP
+*wkhtmltopdf(64 bit)
+------------------------------
 Install my-project with npm
 
 ```bash
